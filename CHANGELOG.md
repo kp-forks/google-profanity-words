@@ -8,6 +8,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Future releases are managed by [Release Please](https://github.com/googleapis/release-please)
 — entries are generated automatically from commit messages.
 
+## [3.0.8](https://github.com/kp-forks/google-profanity-words/compare/v3.0.7...v3.0.8) (2026-04-21)
+
+
+### Bug Fixes
+
+* 10 ([4dd44ab](https://github.com/kp-forks/google-profanity-words/commit/4dd44ab52ac1b485b495ab45107206b17e8df3ac))
+* 2 ([2dd5b74](https://github.com/kp-forks/google-profanity-words/commit/2dd5b74dbe857b66a265424082f47d7a53598e18))
+* 32 ([d9ae99a](https://github.com/kp-forks/google-profanity-words/commit/d9ae99a9c5807bdd65e3edff7c0600e6c4ddf264))
+* 333 ([385a5f7](https://github.com/kp-forks/google-profanity-words/commit/385a5f7a6d185f2ac88ddb48bac87a29be58aec7))
+* e ([37553a8](https://github.com/kp-forks/google-profanity-words/commit/37553a8b73289c66c0377e2d2c9a5ec0c6dea797))
+* New Release push ([10df62b](https://github.com/kp-forks/google-profanity-words/commit/10df62b14ab600fd19329ffe35154e6313ae7650))
+* patch 1 ([f3bfb65](https://github.com/kp-forks/google-profanity-words/commit/f3bfb6577d6986d9ccea404245f031339247b758))
+* updated release code ([0a5f08d](https://github.com/kp-forks/google-profanity-words/commit/0a5f08d25f63d21ef493bf359c3c49d074151d43))
+* whtie space ([33aace3](https://github.com/kp-forks/google-profanity-words/commit/33aace3341af3f59521a87ab043c659bd7e25965))
+
 ## [3.0.7](https://github.com/coffee-and-fun/google-profanity-words/compare/v3.0.6...v3.0.7) (2026-04-20)
 
 
